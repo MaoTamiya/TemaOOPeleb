@@ -1,0 +1,8 @@
+E:\coding stuff\TemaOOPElevi\bin\Debug\TemaOOPElevi.exe.config
+E:\coding stuff\TemaOOPElevi\bin\Debug\TemaOOPElevi.exe
+E:\coding stuff\TemaOOPElevi\bin\Debug\TemaOOPElevi.pdb
+E:\coding stuff\TemaOOPElevi\obj\Debug\TemaOOPElevi.csproj.AssemblyReference.cache
+E:\coding stuff\TemaOOPElevi\obj\Debug\TemaOOPElevi.csproj.CoreCompileInputs.cache
+E:\coding stuff\TemaOOPElevi\obj\Debug\TemaOOPElevi.exe
+E:\coding stuff\TemaOOPElevi\obj\Debug\TemaOOPElevi.pdb
+E:\coding stuff\TemaOOPElevi\obj\Debug\TemaOOPElevi.exe.config

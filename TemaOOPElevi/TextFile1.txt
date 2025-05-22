@@ -1,0 +1,5 @@
+﻿Popa Maria 2 7 9 8
+Cristian Andrei 10 9 8 7
+Cicortas Cristi 3 3 6 4
+Varga David 4 5 6 5 7
+Marinescu Delia 5 9 9 9 10 10
