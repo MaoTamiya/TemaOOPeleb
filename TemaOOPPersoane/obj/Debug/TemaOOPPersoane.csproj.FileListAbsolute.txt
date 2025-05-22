@@ -1,0 +1,8 @@
+E:\coding stuff\TemaOOPPersoane\bin\Debug\TemaOOPPersoane.exe.config
+E:\coding stuff\TemaOOPPersoane\bin\Debug\TemaOOPPersoane.exe
+E:\coding stuff\TemaOOPPersoane\bin\Debug\TemaOOPPersoane.pdb
+E:\coding stuff\TemaOOPPersoane\obj\Debug\TemaOOPPersoane.csproj.AssemblyReference.cache
+E:\coding stuff\TemaOOPPersoane\obj\Debug\TemaOOPPersoane.csproj.CoreCompileInputs.cache
+E:\coding stuff\TemaOOPPersoane\obj\Debug\TemaOOPPersoane.exe
+E:\coding stuff\TemaOOPPersoane\obj\Debug\TemaOOPPersoane.pdb
+E:\coding stuff\TemaOOPPersoane\obj\Debug\TemaOOPPersoane.exe.config
